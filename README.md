@@ -1,2 +1,2 @@
 # V2V-traffic-forecast
-L4DC2021  code repository
+This is the code repository for the paper "Traffic Forecasting using Vehicle-to-Vehicle Communication" in L4DC2021.
