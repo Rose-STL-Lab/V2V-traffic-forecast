@@ -29,11 +29,11 @@ For details of each model, check out the respective jupyter notebooks and our pa
 * MatPlotLib 
 
 ### Cite:
-@misc{wong2021traffic,
+'''@misc{wong2021traffic,
       title={Traffic Forecasting using Vehicle-to-Vehicle Communication}, 
       author={Steven Wong and Lejun Jiang and Robin Walters and Tamás G. Molnár and Gábor Orosz and Rose Yu},
       year={2021},
       eprint={2104.05528},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}
+}'''
