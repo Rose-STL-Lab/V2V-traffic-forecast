@@ -3,6 +3,9 @@
 ### Paper:
 Steven Wong, Lejun Jiang, Robin Walters, Tamás G. Molnár, Gábor Orosz, Rose Yu [Traffic Forecasting using Vehicle-to-Vehicle Communication](https://arxiv.org/abs/2104.05528) L4DC 2021
 
+### Dataset:
+1000 seconds of V2V communication data - Lead and Ego Velocity and Position data 
+### Abstract:
 
 
 This is the code repository for the paper "Traffic Forecasting using Vehicle-to-Vehicle Communication" in L4DC2021.
